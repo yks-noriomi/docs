@@ -1,7 +1,7 @@
 ---
 title: Types of GitHub accounts
 intro: 'Accounts on {% data variables.product.product_name %} allow you to organize and control access to code.'
-redirect_from:
+redirect_from:https://github.com/github/docs/tree/github:main
   - /manage-multiple-clients
   - /managing-clients
   - /articles/what-s-the-difference-between-user-and-organization-accounts
